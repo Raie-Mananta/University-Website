@@ -1,0 +1,50 @@
+section{
+  background-color: white;
+}
+
+.logo{
+  width : 30%;
+  margin: auto;
+  display: block;
+}
+
+#images{
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#div1{
+  background-color: #3c5a99;
+  order: 1;
+  flex : 1;
+}
+
+#div2{
+  background-color: #1da1f3;
+  order: 2;
+  flex : 1;
+}
+
+#div3{
+  background-color: #da2624;
+  order: 3;
+  flex : 1;
+}
+
+#div5{
+  background-color: #e45047;
+  order: 5;
+  flex : 1;
+}
+
+h2{
+  font-size : 50px;
+  margin-left: 10px;
+}
+
+ul li{
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
