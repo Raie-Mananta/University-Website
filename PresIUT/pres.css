@@ -1,0 +1,63 @@
+main{
+  display: flex;
+  order: 1;
+  flex-direction: column;
+  width: 100%;
+  background-color: #3b3b3b;
+  background-image: linear-gradient(to bottom, #3b3b3b, #1c1c1c);
+  margin: auto;
+}
+
+#image{
+  width: 500px;
+  display: inline-block;
+  float: left;
+  padding: 10px;
+}
+
+#component{
+ background-color: white; 
+ padding-left:10px;
+ font-size: 25px;
+}
+
+#bottom{
+background-color: white;
+margin: 5px;
+padding-left:10px;
+}
+
+#associations{
+  width: 30%;
+  height: 302px;
+  display: inline-block;
+  font-size: 20px;
+}
+
+#diplomas{
+  width: 30%;
+  height: 302px;
+  display: inline-block;
+  float: right;
+  border-left: black solid;
+  padding-left:50px;
+  border-width: thin;
+  font-size: 20px;
+}
+
+
+
+#openings{
+  width: 30%;
+  height: 302px;
+  display: inline-block;
+  float: right;
+  border-left: black solid;
+  padding-left:50px;
+  border-width: thin;
+  font-size: 20px;
+}
+
+h3{
+  font-size: 25px;
+}
