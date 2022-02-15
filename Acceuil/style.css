@@ -1,0 +1,92 @@
+main{
+  width: 100%;
+  background-color: #3b3b3b;
+  background-image: linear-gradient(to bottom, #3b3b3b, #1c1c1c);
+}
+
+video{
+  display: inline;
+  
+}
+
+#div{
+  width: 100%;
+}
+
+#siteIUT{
+  position: relative;
+  display: inline-block;
+  width: 51%;
+}
+
+#siteIUT a img{
+  color : white;
+  background-color : black;
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#siteIUT a h2{
+  color : white;
+  background-color : black;
+  position: absolute;
+  bottom: 0px;
+  left: 5px;
+  font-size: 30px;
+}
+
+#div2{
+  display: block;
+  float : right;
+  width: 47.7%;
+  height: 550px;
+  background-color: white;
+}
+
+#div2 h2{
+  font-size: 40px;
+}
+
+#div2 p{
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+#div2 h3{
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+#section2{
+  background-color: white;
+  border: solid black 2px;
+}
+
+#section2 h1{
+  font-size: 60px;
+}
+
+#section2 p{
+  margin-left: 5px;
+  font-size: 50px;
+  width : 60%;
+  text-align: justify;
+}
+
+#section2 h2{
+  margin-left: 5px;
+  margin-top: 150px;
+  font-size: 50px;
+  width : 60%;
+  text-align: justify;
+}
+
+#section2 img{
+  display: block;
+  float : right;
+  margin-right: 10px;
+  width : 30%;
+}
